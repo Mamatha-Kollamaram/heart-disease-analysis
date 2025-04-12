@@ -38,7 +38,7 @@ This project performs **Exploratory Data Analysis (EDA)** on heart disease data 
 
 *Complete feature list available in the notebook*
 
-## 🛠 Technologies Used
+## Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3+-blue?logo=pandas)
