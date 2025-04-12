@@ -1,6 +1,6 @@
 # Uncovering Clinical Insights into Heart Disease Risk
 
-This project performs **Exploratory Data Analysis (EDA)** on heart disease data from Cleveland and Hungary, identifying key patterns and statistical relationships between clinical features and heart disease presence.
+This project dives deep into Exploratory Data Analysis (EDA) of real-world heart disease data from the Cleveland and Hungary datasets. By cleaning, visualizing, and statistically analyzing clinical features, it uncovers key risk factors, regional differences, and patterns associated with heart disease. The goal is to extract meaningful insights that could support early diagnosis and improve understanding of cardiovascular risk.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
