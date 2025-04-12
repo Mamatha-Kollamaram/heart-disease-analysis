@@ -11,6 +11,7 @@ This project performs **Exploratory Data Analysis (EDA)** on heart disease data 
 - [Dataset](#dataset)
 - [Results](#results)
 - [Author](#author)
+- [License](#license)
 
 
 ## Project Overview
